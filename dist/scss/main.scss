@@ -49,6 +49,14 @@
 }
 }
 
+
+#radio1, #radio2, #radio3, #radio4 {
+	display: inline-block;
+
+}
+
+
+
 .favorite {
 	width: 12px;
 }
@@ -73,12 +81,13 @@
 .radio {
 	display: inline;
 	padding: 0px;
+	width: 12px;
 }
 
 body {
 	background: rgb(58,145,209);
 	line-height: 30px;
-	font-size: 20px;
+	font-size: 15px;
 	margin-left: 0 auto;
 	margin-right: 0 auto;
 	color: white;
@@ -86,6 +95,7 @@ body {
 
 span{
 	display: inline;
+	margin-right: 10px;
 }
 
 
@@ -104,7 +114,7 @@ textarea, input, select {
 }
 
 input, select, textarea {
-	font-size: 20px;
+	font-size: 15px;
 	font-style: italic;
 }
 

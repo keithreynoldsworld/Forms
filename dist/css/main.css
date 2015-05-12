@@ -1,0 +1,87 @@
+@media (min-width 1px) {
+  .top-container {
+    width: 90%;
+    padding: 20px; }
+
+  .middle-container {
+    width: 90%;
+    padding: 20px; }
+
+  .bottom-container {
+    width: 90%;
+    padding: 20px; }
+
+  .block {
+    display: block; } }
+@media (min-width: 768px) {
+  .top-container {
+    display: inline-block;
+    width: 44%; }
+
+  .middle-container {
+    display: inline-block;
+    width: 44%; }
+
+  .bottom-container {
+    width: 95%; } }
+@media (min-width: 1122px) {
+  .top-container {
+    width: 29%; }
+
+  .middle-container {
+    width: 29%; }
+
+  .bottom-container {
+    width: 29%; } }
+.favorite {
+  width: 12px; }
+
+.center {
+  margin-left: auto;
+  margin-right: auto; }
+
+.footer {
+  text-align: center; }
+
+.button {
+  background: #115488;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 15px; }
+
+.radio {
+  display: inline;
+  padding: 0px; }
+
+body {
+  background: #3a91d1;
+  line-height: 30px;
+  font-size: 20px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  color: white; }
+
+span {
+  display: inline; }
+
+div {
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top; }
+
+textarea, input, select {
+  background: #3a91d1;
+  width: 100%;
+  margin-bottom: 15px;
+  color: #115488;
+  border: 3px solid white; }
+
+input, select, textarea {
+  font-size: 20px;
+  font-style: italic; }
+
+textarea {
+  height: 70px;
+  border: 3px solid white; }
+
+/*# sourceMappingURL=main.css.map */
